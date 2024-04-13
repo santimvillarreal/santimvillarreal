@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-*My name is Santiago Villarreal, I'm from San Rafael, Mendoza, Argentina.* 🔵⚪🔵<br>I'm musician. My soloist name is Immanente.
+*My name is Santiago Villarreal, I'm from San Rafael, Mendoza, Argentina.* 🔵⚪🔵<br>I'm musician and producer. My soloist name is Immanente.
 
 # 💫 About Me:
 🎸 I'm currently working on and making my first soloist music album: "Intrascendente".<br>📖 Currently studying Tecnicatura Universitaria en Programación at UTN FRSR.<br>🌱 Currently learning Java, Python and Javascript.<br>
