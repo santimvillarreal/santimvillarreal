@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-*My name is Santiago Villarreal, I'm from San Rafael, Mendoza, Argentina.* 🔵⚪🔵<br>I'm musician. My solist name is Immanente.
+*My name is Santiago Villarreal, I'm from San Rafael, Mendoza, Argentina.* 🔵⚪🔵<br>I'm musician. My soloist name is Immanente.
 
 # 💫 About Me:
-🎸 I'm currently working on and making my first solist music album: "Intrascendente".<br>📖 Currently studying Tecnicatura Universitaria en Programación at UTN FRSR<br>🌱 I’m currently learning Java, Python and Javascript.<br>
+🎸 I'm currently working on and making my first soloist music album: "Intrascendente".<br>📖 Currently studying Tecnicatura Universitaria en Programación at UTN FRSR<br>🌱 I’m currently learning Java, Python and Javascript.<br>
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/santivillain) 
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=santimvillarreal&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=santimvillarreal&theme=merko&hide_border=false)<br/>
